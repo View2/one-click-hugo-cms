@@ -1,6 +1,6 @@
 ---
 title: Geodesic Coffee Kits
-date: 2018-11-07T02:52:46.573Z
+date: 2018-11-07T22:52:00.000Z
 description: Do you like Coffee?  You'll love Geodesic Coffee!!
 image: /img/architecture-attraction-british-columbia-63332.jpg
 ---
